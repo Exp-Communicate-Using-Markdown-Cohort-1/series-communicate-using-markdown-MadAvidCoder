@@ -14,3 +14,9 @@ for i in range(10):
   print(i)
 print("Goodbye!")
 ```
+
+- [x] Item 1
+- [ ] Item 2
+- [x] Item 3
+- [x] Item 4
+- [ ] Item 5
